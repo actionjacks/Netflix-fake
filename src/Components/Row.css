@@ -1,5 +1,9 @@
 .row {
   margin-left: 20px;
+  color: white;
+}
+.row img {
+  cursor: pointer;
 }
 .row__posters {
   display: flex;
