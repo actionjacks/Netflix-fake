@@ -7,3 +7,6 @@ Clicking on the movie poster will display the youtube trailer
 
 live build 
 https://my-netflixx.herokuapp.com/
+
+new app deployed on firebase
+https://netflix-utube-16599.web.app/
